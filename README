@@ -1,0 +1,4 @@
+This is the parent directory for the final IDL-based HERACLES reduction. Each
+directory contains results for one galaxy with subdirectories holding
+calibrated spectra, cubes, masks, code used, etc. The raw data live elsewhere,
+these are only the end products and various intermediate steps.
