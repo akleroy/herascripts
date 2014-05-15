@@ -1,0 +1,67 @@
+NORMALS
+
+ngc0337		gain-checked, iterated, ready for testing
+ngc0628		gain-checked, iterated, ready for testing
+ngc2146		gain-checked, iterated, ready for testing
+ngc2403		gain-checked, iterated, ready for testing
+ngc2798		gain-checked, iterated, ready for testing
+
+ngc2841		gain-checked, iterated, ready for testing
+ngc2903		gain-checked, iterated, ready for testing
+ngc2976		gain-checked, iterated, ready for testing
+ngc3049		gain-checked, iterated, ready for testing
+ngc3190		gain check impossible, nondet? ready for testing
+
+ngc3077		gain-checked, iterated, ready for testing
+ngc3184		gain-checked, iterated, ready for testing
+ngc3198		gain-checked, iterated, ready for testing
+ngc3351		gain-checked, iterated, ready for testing
+ngc3521		gain-checked, iterated, ready for testing
+
+ngc3938		gain-checked, iterated, ready for testing
+ngc4214		iterated, gain check impossible, ready for testing
+ngc4254		gain-checked, iterated, ready for testing 
+ngc4321		gain-checked, iterated, ready for testing
+ngc4536		gain-checked, iterated, ready for testing
+
+ngc4559		gain-checked, iterated, ready for testing
+ngc4569		gain-checked, iterated, ready for testing
+ngc4579		gain-checked, iterated, ready for testing
+ngc4594		gain check impossible, ready for testing but needs masking
+ngc4625		iterated, gain check impossible, ready for testing
+
+ngc4631		gain-checked, iterated, more data incoming
+ngc4725		gain-checked, iterated, ready for testing
+ngc5055		gain-checked, iterated, ready for testing
+ngc5713		gain-checked, iterated, ready for testing
+ngc6946		gain-checked, iterated, ready(ish) for testing
+
+ngc7331		gain-checked, iterated, ready for testing
+
+?EMPTY? DWARFS
+
+ddo053		off, fake, beta all okay. 
+ddo154		off, fake, beta all okay. 
+ddo165		off, fake, beta all okay. 
+hoi		off, fake, beta all okay. 
+m81dwa		off, fake, beta all okay. 
+
+m81dwb		off, fake, beta all okay. 
+ngc2366		off, fake, beta all okay. 
+ngc4236		off, fake, beta all okay. 
+ngc5474		off, fake, beta all okay.
+
+SPECIAL CASES
+
+ngc0925		gain check impossible, iterated, ready to combine
+ngc4736		gain-checked (impossible for wing)
+
+hoii		need to combine strategies.
+ic2574		"strat1" still has issues. Revisit.
+
+OTHER SPECIAL CASES
+
+ngc3034		big difft strategies
+ngc3627		difft pixel defs
+ngc5194		old data
+ngc5457		big! difft strategies
