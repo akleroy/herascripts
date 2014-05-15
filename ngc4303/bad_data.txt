@@ -1,0 +1,5 @@
+# data		telescop	scan_lo	scan_hi	channel_low	channel_high
+all		30M-F02-2H04	all	all	0		10000
+all		30M-F02-2H09	all	all	0		10000
+all		30M-W02-2H04	all	all	0		10000
+all		30M-W02-2H09	all	all	0		10000
