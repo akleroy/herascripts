@@ -1,0 +1,11 @@
+#day	telescop	scan	channel_low	channel_high
+#data		telescop	scan_lo	scan_hi	channel_low	channel_high
+ngc4559_28nov09	30M-W01-1H01	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H02	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H03	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H04	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H05	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H06	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H07	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H08	all	all	0		1000
+ngc4559_28nov09	30M-W01-1H09	all	all	0		1000

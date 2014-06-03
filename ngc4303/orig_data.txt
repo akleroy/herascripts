@@ -3,4 +3,5 @@
 # Column 3: Is the file already reference subtracted?
 # Column 4: Name of an associated reference definition file (ignore)
 ../../../gildas/new_fits/ngc4303_24dec13.fits	ngc4303_24dec13	Y	none
+../../../gildas/new_fits/ngc4303_27dec13_fts.fits	ngc4303_27dec13	Y	none
 

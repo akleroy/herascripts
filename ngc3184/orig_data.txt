@@ -1,0 +1,5 @@
+../../../gildas/fits/ngc3184_31oct07.fits	ngc3184_31oct07	N	none
+../../../gildas/fits/ngc3184_01nov07.fits	ngc3184_01nov07	N	none
+../../../gildas/fits/ngc3184_04nov07.fits	ngc3184_04nov07	N	none
+../../../gildas/fits/ngc3184_05nov07.fits	ngc3184_05nov07	N	none
+

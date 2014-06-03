@@ -97,7 +97,7 @@ pro pipe_batch $
         , /show $         
         , /report $
         , /fts $
-        , goto_mask=0B
+        , goto_clean=0B
 
   endif
 
